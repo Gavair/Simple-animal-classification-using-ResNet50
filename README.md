@@ -1,2 +1,2 @@
 # ookp
-The repository for my homework
+The repository for my university homework
